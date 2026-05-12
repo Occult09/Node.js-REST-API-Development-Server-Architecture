@@ -1,7 +1,20 @@
 [
-    {
-        "id": 1,
-        "name" : "Product-1",
-        "price": 500
-    }
+  {
+    "id": 1,
+    "name": "Apple iPhone 15",
+    "price": 999,
+    "description": "6.1-inch smartphone with A16 Bionic chip, Dynamic Island, and 48MP camera."
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S24",
+    "price": 899,
+    "description": "Flagship Android smartphone featuring Galaxy AI, AMOLED display, and triple camera setup."
+  },
+  {
+    "id": 3,
+    "name": "Sony WH-1000XM5",
+    "price": 399,
+    "description": "Premium wireless noise-canceling headphones with long battery life and high-quality sound."
+  }
 ]
